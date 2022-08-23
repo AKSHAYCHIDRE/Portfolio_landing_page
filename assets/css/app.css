@@ -289,6 +289,9 @@ svg {
   html.has-scroll-smooth {
     overflow: scroll;
   }
+  #main {
+    padding: 0 14px;
+  }
 }
 .row {
   --bs-gutter-x: 1.5rem;
