@@ -285,14 +285,6 @@ svg {
     max-width: 1320px;
   }
 }
-@media (max-width: 768px) {
-  html.has-scroll-smooth {
-    overflow: scroll;
-  }
-  #main {
-    padding: 0 14px;
-  }
-}
 .row {
   --bs-gutter-x: 1.5rem;
   --bs-gutter-y: 0;
